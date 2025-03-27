@@ -1,3 +1,0 @@
-ID,Name,VarType,LogicalAddress,DataType,Description
-1,滑台左移传感器,Byte,I1.4,Output,
-2,滑台右移传感器,Byte,I1.5,Output,
