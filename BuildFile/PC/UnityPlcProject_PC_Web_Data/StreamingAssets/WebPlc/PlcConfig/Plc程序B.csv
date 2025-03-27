@@ -1,0 +1,4 @@
+ID,Name,VarType,LogicalAddress,DataType,Description
+1,启动按钮,Byte,I4.5,Output,
+2,停止按钮,Byte,I4.6,Output,
+3,复位按钮,Byte,I4.7,Output,
